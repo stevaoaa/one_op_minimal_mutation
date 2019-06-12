@@ -1,0 +1,863 @@
+Results for Operator: Random 15%
+Min: 0.233
+Q1: 0.564
+Median: 0.699
+Average: 0.676
+Q3: 0.794
+Max: 0.980
+St. Dev.: 0.163
+
+Results for Operator: u-OSEA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-OSSA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-OSBN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-OBEA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: Random 2%
+Min: 0.175
+Q1: 0.267
+Median: 0.305
+Average: 0.344
+Q3: 0.400
+Max: 0.638
+St. Dev.: 0.122
+
+Results for Operator: u-SSWM
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.021
+Q3: 0.000
+Max: 0.350
+St. Dev.: 0.064
+
+Results for Operator: u-CCDL
+Min: 0.000
+Q1: 0.109
+Median: 0.196
+Average: 0.182
+Q3: 0.248
+Max: 0.380
+St. Dev.: 0.110
+
+Results for Operator: Random 4%
+Min: 0.200
+Q1: 0.378
+Median: 0.422
+Average: 0.454
+Q3: 0.500
+Max: 0.871
+St. Dev.: 0.144
+
+Results for Operator: u-OASA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.019
+Q3: 0.000
+Max: 0.262
+St. Dev.: 0.056
+
+Results for Operator: u-VGSR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.057
+Q3: 0.000
+Max: 0.550
+St. Dev.: 0.152
+
+Results for Operator: u-OEAA
+Min: 0.000
+Q1: 0.195
+Median: 0.300
+Average: 0.285
+Q3: 0.359
+Max: 0.575
+St. Dev.: 0.152
+
+Results for Operator: u-OABA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.020
+Q3: 0.000
+Max: 0.254
+St. Dev.: 0.057
+
+Results for Operator: u-OBAN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.006
+Q3: 0.000
+Max: 0.150
+St. Dev.: 0.025
+
+Results for Operator: u-SDWD
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: OODL+SSDL
+Min: 0.200
+Q1: 0.362
+Median: 0.448
+Average: 0.460
+Q3: 0.543
+Max: 0.871
+St. Dev.: 0.158
+
+Results for Operator: u-OBAA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-ORRN
+Min: 0.000
+Q1: 0.362
+Median: 0.466
+Average: 0.471
+Q3: 0.608
+Max: 0.814
+St. Dev.: 0.178
+
+Results for Operator: u-SWDD
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.039
+Q3: 0.037
+Max: 0.333
+St. Dev.: 0.078
+
+Results for Operator: u-OABN
+Min: 0.000
+Q1: 0.000
+Median: 0.110
+Average: 0.186
+Q3: 0.323
+Max: 0.583
+St. Dev.: 0.188
+
+Results for Operator: u-OBLN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.005
+Q3: 0.000
+Max: 0.125
+St. Dev.: 0.021
+
+Results for Operator: u-VSCR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.044
+Q3: 0.000
+Max: 0.512
+St. Dev.: 0.120
+
+Results for Operator: u-VGTR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: VLPR+VGPR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.036
+Q3: 0.000
+Max: 0.467
+St. Dev.: 0.093
+
+Results for Operator: u-OODL
+Min: 0.194
+Q1: 0.280
+Median: 0.361
+Average: 0.392
+Q3: 0.451
+Max: 0.800
+St. Dev.: 0.157
+
+Results for Operator: u-OBSN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.006
+Q3: 0.000
+Max: 0.181
+St. Dev.: 0.030
+
+Results for Operator: u-OCNG
+Min: 0.050
+Q1: 0.125
+Median: 0.183
+Average: 0.204
+Q3: 0.261
+Max: 0.567
+St. Dev.: 0.109
+
+Results for Operator: u-OBBN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.004
+Q3: 0.000
+Max: 0.094
+St. Dev.: 0.016
+
+Results for Operator: u-SBRn
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.004
+Q3: 0.000
+Max: 0.125
+St. Dev.: 0.021
+
+Results for Operator: u-STRP
+Min: 0.062
+Q1: 0.205
+Median: 0.297
+Average: 0.300
+Q3: 0.372
+Max: 0.814
+St. Dev.: 0.139
+
+Results for Operator: CCDL+VVDL
+Min: 0.169
+Q1: 0.255
+Median: 0.303
+Average: 0.353
+Q3: 0.424
+Max: 0.760
+St. Dev.: 0.144
+
+Results for Operator: u-OSLN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: CCDL+SSDL
+Min: 0.157
+Q1: 0.290
+Median: 0.359
+Average: 0.382
+Q3: 0.457
+Max: 0.871
+St. Dev.: 0.140
+
+Results for Operator: u-OLSN
+Min: 0.000
+Q1: 0.000
+Median: 0.018
+Average: 0.091
+Q3: 0.170
+Max: 0.400
+St. Dev.: 0.111
+
+Results for Operator: u-OAAN
+Min: 0.000
+Q1: 0.045
+Median: 0.155
+Average: 0.178
+Q3: 0.295
+Max: 0.550
+St. Dev.: 0.150
+
+Results for Operator: CCDL+SSDL+VVDL
+Min: 0.200
+Q1: 0.344
+Median: 0.420
+Average: 0.440
+Q3: 0.528
+Max: 0.871
+St. Dev.: 0.150
+
+Results for Operator: u-OAAA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.025
+Q3: 0.000
+Max: 0.247
+St. Dev.: 0.061
+
+Results for Operator: u-OALN
+Min: 0.000
+Q1: 0.006
+Median: 0.125
+Average: 0.135
+Q3: 0.200
+Max: 0.483
+St. Dev.: 0.125
+
+Results for Operator: u-OBRN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.010
+Q3: 0.000
+Max: 0.219
+St. Dev.: 0.042
+
+Results for Operator: u-OSAA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: Random 5%
+Min: 0.229
+Q1: 0.400
+Median: 0.480
+Average: 0.492
+Q3: 0.537
+Max: 0.800
+St. Dev.: 0.140
+
+Results for Operator: Random 1%
+Min: 0.150
+Q1: 0.200
+Median: 0.252
+Average: 0.273
+Q3: 0.335
+Max: 0.508
+St. Dev.: 0.096
+
+Results for Operator: u-SCRn
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-OBBA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-Oido
+Min: 0.000
+Q1: 0.067
+Median: 0.143
+Average: 0.134
+Q3: 0.177
+Max: 0.433
+St. Dev.: 0.092
+
+Results for Operator: u-OIPM
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.001
+Q3: 0.000
+Max: 0.029
+St. Dev.: 0.005
+
+Results for Operator: u-VLSR
+Min: 0.100
+Q1: 0.315
+Median: 0.439
+Average: 0.455
+Q3: 0.547
+Max: 0.843
+St. Dev.: 0.179
+
+Results for Operator: u-OBSA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: VLAR+VGAR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.041
+Q3: 0.000
+Max: 0.486
+St. Dev.: 0.096
+
+Results for Operator: u-OESA
+Min: 0.000
+Q1: 0.103
+Median: 0.195
+Average: 0.208
+Q3: 0.311
+Max: 0.500
+St. Dev.: 0.132
+
+Results for Operator: u-OSRN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-OAEA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.024
+Q3: 0.000
+Max: 0.238
+St. Dev.: 0.056
+
+Results for Operator: u-OLBN
+Min: 0.000
+Q1: 0.000
+Median: 0.018
+Average: 0.081
+Q3: 0.126
+Max: 0.429
+St. Dev.: 0.105
+
+Results for Operator: u-SCRB
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.001
+Q3: 0.000
+Max: 0.032
+St. Dev.: 0.005
+
+Results for Operator: u-OBNG
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.006
+Q3: 0.000
+Max: 0.150
+St. Dev.: 0.025
+
+Results for Operator: SSDL+ORRN
+Min: 0.225
+Q1: 0.407
+Median: 0.538
+Average: 0.529
+Q3: 0.657
+Max: 0.871
+St. Dev.: 0.166
+
+Results for Operator: VLTR+VGTR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: SSDL+VVDL
+Min: 0.200
+Q1: 0.327
+Median: 0.391
+Average: 0.417
+Q3: 0.472
+Max: 0.871
+St. Dev.: 0.142
+
+Results for Operator: u-OLRN
+Min: 0.000
+Q1: 0.000
+Median: 0.034
+Average: 0.144
+Q3: 0.219
+Max: 0.614
+St. Dev.: 0.181
+
+Results for Operator: u-ORAN
+Min: 0.000
+Q1: 0.278
+Median: 0.360
+Average: 0.380
+Q3: 0.500
+Max: 0.600
+St. Dev.: 0.145
+
+Results for Operator: u-SMTT
+Min: 0.000
+Q1: 0.048
+Median: 0.109
+Average: 0.118
+Q3: 0.177
+Max: 0.333
+St. Dev.: 0.085
+
+Results for Operator: u-OASN
+Min: 0.000
+Q1: 0.000
+Median: 0.113
+Average: 0.143
+Q3: 0.209
+Max: 0.550
+St. Dev.: 0.147
+
+Results for Operator: u-SSDL
+Min: 0.157
+Q1: 0.248
+Median: 0.324
+Average: 0.347
+Q3: 0.430
+Max: 0.871
+St. Dev.: 0.134
+
+Results for Operator: u-ORLN
+Min: 0.000
+Q1: 0.193
+Median: 0.278
+Average: 0.284
+Q3: 0.378
+Max: 0.671
+St. Dev.: 0.134
+
+Results for Operator: Random 10%
+Min: 0.353
+Q1: 0.500
+Median: 0.573
+Average: 0.606
+Q3: 0.721
+Max: 0.929
+St. Dev.: 0.142
+
+Results for Operator: u-SMVB
+Min: 0.000
+Q1: 0.000
+Median: 0.045
+Average: 0.075
+Q3: 0.113
+Max: 0.533
+St. Dev.: 0.108
+
+Results for Operator: u-VLPR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.032
+Q3: 0.000
+Max: 0.467
+St. Dev.: 0.089
+
+Results for Operator: u-Ccsr
+Min: 0.000
+Q1: 0.300
+Median: 0.417
+Average: 0.414
+Q3: 0.540
+Max: 0.929
+St. Dev.: 0.182
+
+Results for Operator: u-OLLN
+Min: 0.000
+Q1: 0.000
+Median: 0.015
+Average: 0.065
+Q3: 0.114
+Max: 0.286
+St. Dev.: 0.087
+
+Results for Operator: u-OLNG
+Min: 0.000
+Q1: 0.000
+Median: 0.015
+Average: 0.076
+Q3: 0.132
+Max: 0.371
+St. Dev.: 0.103
+
+Results for Operator: u-OCOR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.004
+Q3: 0.000
+Max: 0.104
+St. Dev.: 0.018
+
+Results for Operator: u-OSAN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-VLTR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-SRSR
+Min: 0.125
+Q1: 0.183
+Median: 0.291
+Average: 0.291
+Q3: 0.343
+Max: 0.871
+St. Dev.: 0.139
+
+Results for Operator: u-VGPR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.004
+Q3: 0.000
+Max: 0.157
+St. Dev.: 0.025
+
+Results for Operator: u-OEBA
+Min: 0.000
+Q1: 0.145
+Median: 0.238
+Average: 0.248
+Q3: 0.313
+Max: 0.675
+St. Dev.: 0.164
+
+Results for Operator: Random 3%
+Min: 0.129
+Q1: 0.334
+Median: 0.400
+Average: 0.420
+Q3: 0.483
+Max: 0.833
+St. Dev.: 0.133
+
+Results for Operator: u-STRI
+Min: 0.000
+Q1: 0.187
+Median: 0.250
+Average: 0.257
+Q3: 0.319
+Max: 0.814
+St. Dev.: 0.165
+
+Results for Operator: Random 20%
+Min: 0.433
+Q1: 0.620
+Median: 0.687
+Average: 0.701
+Q3: 0.798
+Max: 1.000
+St. Dev.: 0.134
+
+Results for Operator: u-VLAR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.025
+Q3: 0.000
+Max: 0.200
+St. Dev.: 0.054
+
+Results for Operator: u-SGLR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.001
+Q3: 0.000
+Max: 0.020
+St. Dev.: 0.003
+
+Results for Operator: u-VVDL
+Min: 0.126
+Q1: 0.235
+Median: 0.280
+Average: 0.318
+Q3: 0.378
+Max: 0.657
+St. Dev.: 0.130
+
+Results for Operator: u-CRCR
+Min: 0.227
+Q1: 0.342
+Median: 0.439
+Average: 0.471
+Q3: 0.614
+Max: 0.857
+St. Dev.: 0.158
+
+Results for Operator: u-ORBN
+Min: 0.000
+Q1: 0.207
+Median: 0.306
+Average: 0.318
+Q3: 0.440
+Max: 0.583
+St. Dev.: 0.150
+
+Results for Operator: u-Cccr
+Min: 0.000
+Q1: 0.136
+Median: 0.322
+Average: 0.285
+Q3: 0.430
+Max: 0.686
+St. Dev.: 0.188
+
+Results for Operator: u-VGAR
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.030
+Q3: 0.000
+Max: 0.486
+St. Dev.: 0.093
+
+Results for Operator: u-VTWD
+Min: 0.200
+Q1: 0.372
+Median: 0.521
+Average: 0.515
+Q3: 0.669
+Max: 0.800
+St. Dev.: 0.174
+
+Results for Operator: u-OARN
+Min: 0.000
+Q1: 0.006
+Median: 0.146
+Average: 0.157
+Q3: 0.269
+Max: 0.500
+St. Dev.: 0.148
+
+Results for Operator: u-SMTC
+Min: 0.000
+Q1: 0.054
+Median: 0.146
+Average: 0.143
+Q3: 0.200
+Max: 0.383
+St. Dev.: 0.104
+
+Results for Operator: u-OSBA
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: u-OSSN
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.000
+Q3: 0.000
+Max: 0.000
+St. Dev.: 0.000
+
+Results for Operator: VLSR+VGSR
+Min: 0.100
+Q1: 0.344
+Median: 0.485
+Average: 0.475
+Q3: 0.576
+Max: 0.843
+St. Dev.: 0.177
+
+Results for Operator: u-OLAN
+Min: 0.000
+Q1: 0.000
+Median: 0.034
+Average: 0.101
+Q3: 0.159
+Max: 0.600
+St. Dev.: 0.135
+
+Results for Operator: u-ORSN
+Min: 0.000
+Q1: 0.181
+Median: 0.250
+Average: 0.247
+Q3: 0.329
+Max: 0.467
+St. Dev.: 0.119
+
+Results for Operator: u-VDTR
+Min: 0.275
+Q1: 0.511
+Median: 0.715
+Average: 0.658
+Q3: 0.807
+Max: 1.000
+St. Dev.: 0.205
+
+Results for Operator: u-SBRC
+Min: 0.000
+Q1: 0.000
+Median: 0.000
+Average: 0.004
+Q3: 0.000
+Max: 0.114
+St. Dev.: 0.019

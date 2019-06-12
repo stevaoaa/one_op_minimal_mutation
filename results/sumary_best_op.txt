@@ -1,0 +1,936 @@
+Results for Operator: Random 15\%
+Min MS: 0.233
+Q1 MS: 0.564
+Median MS: 0.699
+Average MS: 0.676
+Q3 MS: 0.794
+Max MS: 0.980
+St. Dev. MS: 0.163
+Number of TC: 374
+Number of Mutants: 8083
+Mutants/TC: 21.612299465240643 
+
+Results for Operator: Random 2\%
+Min MS: 0.175
+Q1 MS: 0.267
+Median MS: 0.305
+Average MS: 0.344
+Q3 MS: 0.400
+Max MS: 0.638
+St. Dev. MS: 0.122
+Number of TC: 174
+Number of Mutants: 1137
+Mutants/TC: 6.5344827586206895 
+
+Results for Operator: u-SSWM
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.021
+Q3 MS: 0.000
+Max MS: 0.350
+St. Dev. MS: 0.064
+Number of TC: 28
+Number of Mutants: 101
+Mutants/TC: 3.607142857142857 
+
+Results for Operator: u-CCDL
+Min MS: 0.000
+Q1 MS: 0.109
+Median MS: 0.196
+Average MS: 0.182
+Q3 MS: 0.248
+Max MS: 0.380
+St. Dev. MS: 0.110
+Number of TC: 91
+Number of Mutants: 374
+Mutants/TC: 4.1098901098901095 
+
+Results for Operator: Random 4\%
+Min MS: 0.200
+Q1 MS: 0.378
+Median MS: 0.422
+Average MS: 0.454
+Q3 MS: 0.500
+Max MS: 0.871
+St. Dev. MS: 0.144
+Number of TC: 235
+Number of Mutants: 2272
+Mutants/TC: 9.668085106382978 
+
+Results for Operator: u-OASA
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.019
+Q3 MS: 0.000
+Max MS: 0.262
+St. Dev. MS: 0.056
+Number of TC: 16
+Number of Mutants: 58
+Mutants/TC: 3.625 
+
+Results for Operator: u-VGSR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.057
+Q3 MS: 0.000
+Max MS: 0.550
+St. Dev. MS: 0.152
+Number of TC: 75
+Number of Mutants: 1260
+Mutants/TC: 16.8 
+
+Results for Operator: u-OEAA
+Min MS: 0.000
+Q1 MS: 0.195
+Median MS: 0.300
+Average MS: 0.285
+Q3 MS: 0.359
+Max MS: 0.575
+St. Dev. MS: 0.152
+Number of TC: 133
+Number of Mutants: 1771
+Mutants/TC: 13.31578947368421 
+
+Results for Operator: u-OABA
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.020
+Q3 MS: 0.000
+Max MS: 0.254
+St. Dev. MS: 0.057
+Number of TC: 15
+Number of Mutants: 86
+Mutants/TC: 5.733333333333333 
+
+Results for Operator: u-OBAN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.006
+Q3 MS: 0.000
+Max MS: 0.150
+St. Dev. MS: 0.025
+Number of TC: 5
+Number of Mutants: 58
+Mutants/TC: 11.6 
+
+Results for Operator: OODL+SSDL
+Min MS: 0.200
+Q1 MS: 0.362
+Median MS: 0.448
+Average MS: 0.460
+Q3 MS: 0.543
+Max MS: 0.871
+St. Dev. MS: 0.158
+Number of TC: 250
+Number of Mutants: 3453
+Mutants/TC: 13.812 
+
+Results for Operator: u-ORRN
+Min MS: 0.000
+Q1 MS: 0.362
+Median MS: 0.466
+Average MS: 0.471
+Q3 MS: 0.608
+Max MS: 0.814
+St. Dev. MS: 0.178
+Number of TC: 231
+Number of Mutants: 1720
+Mutants/TC: 7.445887445887446 
+
+Results for Operator: u-SWDD
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.039
+Q3 MS: 0.037
+Max MS: 0.333
+St. Dev. MS: 0.078
+Number of TC: 16
+Number of Mutants: 20
+Mutants/TC: 1.25 
+
+Results for Operator: u-OABN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.110
+Average MS: 0.186
+Q3 MS: 0.323
+Max MS: 0.583
+St. Dev. MS: 0.188
+Number of TC: 87
+Number of Mutants: 655
+Mutants/TC: 7.528735632183908 
+
+Results for Operator: u-OBLN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.005
+Q3 MS: 0.000
+Max MS: 0.125
+St. Dev. MS: 0.021
+Number of TC: 4
+Number of Mutants: 23
+Mutants/TC: 5.75 
+
+Results for Operator: u-VSCR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.044
+Q3 MS: 0.000
+Max MS: 0.512
+St. Dev. MS: 0.120
+Number of TC: 26
+Number of Mutants: 318
+Mutants/TC: 12.23076923076923 
+
+Results for Operator: VLPR+VGPR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.036
+Q3 MS: 0.000
+Max MS: 0.467
+St. Dev. MS: 0.093
+Number of TC: 36
+Number of Mutants: 272
+Mutants/TC: 7.555555555555555 
+
+Results for Operator: u-OODL
+Min MS: 0.194
+Q1 MS: 0.280
+Median MS: 0.361
+Average MS: 0.392
+Q3 MS: 0.451
+Max MS: 0.800
+St. Dev. MS: 0.157
+Number of TC: 201
+Number of Mutants: 1685
+Mutants/TC: 8.383084577114428 
+
+Results for Operator: u-OBSN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.006
+Q3 MS: 0.000
+Max MS: 0.181
+St. Dev. MS: 0.030
+Number of TC: 5
+Number of Mutants: 24
+Mutants/TC: 4.8 
+
+Results for Operator: u-OCNG
+Min MS: 0.050
+Q1 MS: 0.125
+Median MS: 0.183
+Average MS: 0.204
+Q3 MS: 0.261
+Max MS: 0.567
+St. Dev. MS: 0.109
+Number of TC: 71
+Number of Mutants: 395
+Mutants/TC: 5.563380281690141 
+
+Results for Operator: u-OBBN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.004
+Q3 MS: 0.000
+Max MS: 0.094
+St. Dev. MS: 0.016
+Number of TC: 4
+Number of Mutants: 23
+Mutants/TC: 5.75 
+
+Results for Operator: u-SBRn
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.004
+Q3 MS: 0.000
+Max MS: 0.125
+St. Dev. MS: 0.021
+Number of TC: 2
+Number of Mutants: 2
+Mutants/TC: 1.0 
+
+Results for Operator: u-STRP
+Min MS: 0.062
+Q1 MS: 0.205
+Median MS: 0.297
+Average MS: 0.300
+Q3 MS: 0.372
+Max MS: 0.814
+St. Dev. MS: 0.139
+Number of TC: 143
+Number of Mutants: 1887
+Mutants/TC: 13.195804195804195 
+
+Results for Operator: CCDL+VVDL
+Min MS: 0.169
+Q1 MS: 0.255
+Median MS: 0.303
+Average MS: 0.353
+Q3 MS: 0.424
+Max MS: 0.760
+St. Dev. MS: 0.144
+Number of TC: 166
+Number of Mutants: 1116
+Mutants/TC: 6.72289156626506 
+
+Results for Operator: CCDL+SSDL
+Min MS: 0.157
+Q1 MS: 0.290
+Median MS: 0.359
+Average MS: 0.382
+Q3 MS: 0.457
+Max MS: 0.871
+St. Dev. MS: 0.140
+Number of TC: 202
+Number of Mutants: 2142
+Mutants/TC: 10.603960396039604 
+
+Results for Operator: u-OLSN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.018
+Average MS: 0.091
+Q3 MS: 0.170
+Max MS: 0.400
+St. Dev. MS: 0.111
+Number of TC: 59
+Number of Mutants: 178
+Mutants/TC: 3.016949152542373 
+
+Results for Operator: u-OAAN
+Min MS: 0.000
+Q1 MS: 0.045
+Median MS: 0.155
+Average MS: 0.178
+Q3 MS: 0.295
+Max MS: 0.550
+St. Dev. MS: 0.150
+Number of TC: 94
+Number of Mutants: 1129
+Mutants/TC: 12.01063829787234 
+
+Results for Operator: CCDL+SSDL+VVDL
+Min MS: 0.200
+Q1 MS: 0.344
+Median MS: 0.420
+Average MS: 0.440
+Q3 MS: 0.528
+Max MS: 0.871
+St. Dev. MS: 0.150
+Number of TC: 229
+Number of Mutants: 2884
+Mutants/TC: 12.593886462882097 
+
+Results for Operator: u-OAAA
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.025
+Q3 MS: 0.000
+Max MS: 0.247
+St. Dev. MS: 0.061
+Number of TC: 20
+Number of Mutants: 173
+Mutants/TC: 8.65 
+
+Results for Operator: u-OALN
+Min MS: 0.000
+Q1 MS: 0.006
+Median MS: 0.125
+Average MS: 0.135
+Q3 MS: 0.200
+Max MS: 0.483
+St. Dev. MS: 0.125
+Number of TC: 66
+Number of Mutants: 610
+Mutants/TC: 9.242424242424242 
+
+Results for Operator: u-OBRN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.010
+Q3 MS: 0.000
+Max MS: 0.219
+St. Dev. MS: 0.042
+Number of TC: 8
+Number of Mutants: 71
+Mutants/TC: 8.875 
+
+Results for Operator: Random 5\%
+Min MS: 0.229
+Q1 MS: 0.400
+Median MS: 0.480
+Average MS: 0.492
+Q3 MS: 0.537
+Max MS: 0.800
+St. Dev. MS: 0.140
+Number of TC: 261
+Number of Mutants: 2852
+Mutants/TC: 10.9272030651341 
+
+Results for Operator: Random 1\%
+Min MS: 0.150
+Q1 MS: 0.200
+Median MS: 0.252
+Average MS: 0.273
+Q3 MS: 0.335
+Max MS: 0.508
+St. Dev. MS: 0.096
+Number of TC: 131
+Number of Mutants: 573
+Mutants/TC: 4.374045801526718 
+
+Results for Operator: u-Oido
+Min MS: 0.000
+Q1 MS: 0.067
+Median MS: 0.143
+Average MS: 0.134
+Q3 MS: 0.177
+Max MS: 0.433
+St. Dev. MS: 0.092
+Number of TC: 54
+Number of Mutants: 176
+Mutants/TC: 3.259259259259259 
+
+Results for Operator: u-OIPM
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.001
+Q3 MS: 0.000
+Max MS: 0.029
+St. Dev. MS: 0.005
+Number of TC: 1
+Number of Mutants: 2
+Mutants/TC: 2.0 
+
+Results for Operator: u-VLSR
+Min MS: 0.100
+Q1 MS: 0.315
+Median MS: 0.439
+Average MS: 0.455
+Q3 MS: 0.547
+Max MS: 0.843
+St. Dev. MS: 0.179
+Number of TC: 253
+Number of Mutants: 7378
+Mutants/TC: 29.16205533596838 
+
+Results for Operator: VLAR+VGAR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.041
+Q3 MS: 0.000
+Max MS: 0.486
+St. Dev. MS: 0.096
+Number of TC: 26
+Number of Mutants: 175
+Mutants/TC: 6.730769230769231 
+
+Results for Operator: u-OESA
+Min MS: 0.000
+Q1 MS: 0.103
+Median MS: 0.195
+Average MS: 0.208
+Q3 MS: 0.311
+Max MS: 0.500
+St. Dev. MS: 0.132
+Number of TC: 99
+Number of Mutants: 685
+Mutants/TC: 6.91919191919192 
+
+Results for Operator: u-OAEA
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.024
+Q3 MS: 0.000
+Max MS: 0.238
+St. Dev. MS: 0.056
+Number of TC: 20
+Number of Mutants: 48
+Mutants/TC: 2.4 
+
+Results for Operator: u-OLBN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.018
+Average MS: 0.081
+Q3 MS: 0.126
+Max MS: 0.429
+St. Dev. MS: 0.105
+Number of TC: 50
+Number of Mutants: 165
+Mutants/TC: 3.3 
+
+Results for Operator: u-SCRB
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.001
+Q3 MS: 0.000
+Max MS: 0.032
+St. Dev. MS: 0.005
+Number of TC: 1
+Number of Mutants: 2
+Mutants/TC: 2.0 
+
+Results for Operator: u-OBNG
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.006
+Q3 MS: 0.000
+Max MS: 0.150
+St. Dev. MS: 0.025
+Number of TC: 5
+Number of Mutants: 36
+Mutants/TC: 7.2 
+
+Results for Operator: SSDL+ORRN
+Min MS: 0.225
+Q1 MS: 0.407
+Median MS: 0.538
+Average MS: 0.529
+Q3 MS: 0.657
+Max MS: 0.871
+St. Dev. MS: 0.166
+Number of TC: 274
+Number of Mutants: 3488
+Mutants/TC: 12.72992700729927 
+
+Results for Operator: SSDL+VVDL
+Min MS: 0.200
+Q1 MS: 0.327
+Median MS: 0.391
+Average MS: 0.417
+Q3 MS: 0.472
+Max MS: 0.871
+St. Dev. MS: 0.142
+Number of TC: 216
+Number of Mutants: 2510
+Mutants/TC: 11.62037037037037 
+
+Results for Operator: u-OLRN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.034
+Average MS: 0.144
+Q3 MS: 0.219
+Max MS: 0.614
+St. Dev. MS: 0.181
+Number of TC: 94
+Number of Mutants: 521
+Mutants/TC: 5.542553191489362 
+
+Results for Operator: u-ORAN
+Min MS: 0.000
+Q1 MS: 0.278
+Median MS: 0.360
+Average MS: 0.380
+Q3 MS: 0.500
+Max MS: 0.600
+St. Dev. MS: 0.145
+Number of TC: 175
+Number of Mutants: 1636
+Mutants/TC: 9.348571428571429 
+
+Results for Operator: u-SMTT
+Min MS: 0.000
+Q1 MS: 0.048
+Median MS: 0.109
+Average MS: 0.118
+Q3 MS: 0.177
+Max MS: 0.333
+St. Dev. MS: 0.085
+Number of TC: 43
+Number of Mutants: 111
+Mutants/TC: 2.5813953488372094 
+
+Results for Operator: u-OASN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.113
+Average MS: 0.143
+Q3 MS: 0.209
+Max MS: 0.550
+St. Dev. MS: 0.147
+Number of TC: 69
+Number of Mutants: 455
+Mutants/TC: 6.594202898550725 
+
+Results for Operator: u-SSDL
+Min MS: 0.157
+Q1 MS: 0.248
+Median MS: 0.324
+Average MS: 0.347
+Q3 MS: 0.430
+Max MS: 0.871
+St. Dev. MS: 0.134
+Number of TC: 179
+Number of Mutants: 1768
+Mutants/TC: 9.87709497206704 
+
+Results for Operator: u-ORLN
+Min MS: 0.000
+Q1 MS: 0.193
+Median MS: 0.278
+Average MS: 0.284
+Q3 MS: 0.378
+Max MS: 0.671
+St. Dev. MS: 0.134
+Number of TC: 126
+Number of Mutants: 718
+Mutants/TC: 5.698412698412699 
+
+Results for Operator: Random 10\%
+Min MS: 0.353
+Q1 MS: 0.500
+Median MS: 0.573
+Average MS: 0.606
+Q3 MS: 0.721
+Max MS: 0.929
+St. Dev. MS: 0.142
+Number of TC: 330
+Number of Mutants: 5676
+Mutants/TC: 17.2 
+
+Results for Operator: u-SMVB
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.045
+Average MS: 0.075
+Q3 MS: 0.113
+Max MS: 0.533
+St. Dev. MS: 0.108
+Number of TC: 30
+Number of Mutants: 59
+Mutants/TC: 1.9666666666666666 
+
+Results for Operator: u-VLPR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.032
+Q3 MS: 0.000
+Max MS: 0.467
+St. Dev. MS: 0.089
+Number of TC: 30
+Number of Mutants: 237
+Mutants/TC: 7.9 
+
+Results for Operator: u-Ccsr
+Min MS: 0.000
+Q1 MS: 0.300
+Median MS: 0.417
+Average MS: 0.414
+Q3 MS: 0.540
+Max MS: 0.929
+St. Dev. MS: 0.182
+Number of TC: 233
+Number of Mutants: 5461
+Mutants/TC: 23.43776824034335 
+
+Results for Operator: u-OLLN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.015
+Average MS: 0.065
+Q3 MS: 0.114
+Max MS: 0.286
+St. Dev. MS: 0.087
+Number of TC: 43
+Number of Mutants: 98
+Mutants/TC: 2.2790697674418605 
+
+Results for Operator: u-OLNG
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.015
+Average MS: 0.076
+Q3 MS: 0.132
+Max MS: 0.371
+St. Dev. MS: 0.103
+Number of TC: 40
+Number of Mutants: 302
+Mutants/TC: 7.55 
+
+Results for Operator: u-OCOR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.004
+Q3 MS: 0.000
+Max MS: 0.104
+St. Dev. MS: 0.018
+Number of TC: 5
+Number of Mutants: 11
+Mutants/TC: 2.2 
+
+Results for Operator: u-SRSR
+Min MS: 0.125
+Q1 MS: 0.183
+Median MS: 0.291
+Average MS: 0.291
+Q3 MS: 0.343
+Max MS: 0.871
+St. Dev. MS: 0.139
+Number of TC: 150
+Number of Mutants: 2242
+Mutants/TC: 14.946666666666667 
+
+Results for Operator: u-VGPR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.004
+Q3 MS: 0.000
+Max MS: 0.157
+St. Dev. MS: 0.025
+Number of TC: 6
+Number of Mutants: 35
+Mutants/TC: 5.833333333333333 
+
+Results for Operator: u-OEBA
+Min MS: 0.000
+Q1 MS: 0.145
+Median MS: 0.238
+Average MS: 0.248
+Q3 MS: 0.313
+Max MS: 0.675
+St. Dev. MS: 0.164
+Number of TC: 122
+Number of Mutants: 801
+Mutants/TC: 6.565573770491803 
+
+Results for Operator: Random 3\%
+Min MS: 0.129
+Q1 MS: 0.334
+Median MS: 0.400
+Average MS: 0.420
+Q3 MS: 0.483
+Max MS: 0.833
+St. Dev. MS: 0.133
+Number of TC: 209
+Number of Mutants: 1724
+Mutants/TC: 8.248803827751196 
+
+Results for Operator: u-STRI
+Min MS: 0.000
+Q1 MS: 0.187
+Median MS: 0.250
+Average MS: 0.257
+Q3 MS: 0.319
+Max MS: 0.814
+St. Dev. MS: 0.165
+Number of TC: 130
+Number of Mutants: 537
+Mutants/TC: 4.130769230769231 
+
+Results for Operator: Random 20\%
+Min MS: 0.433
+Q1 MS: 0.620
+Median MS: 0.687
+Average MS: 0.701
+Q3 MS: 0.798
+Max MS: 1.000
+St. Dev. MS: 0.134
+Number of TC: 393
+Number of Mutants: 11331
+Mutants/TC: 28.83206106870229 
+
+Results for Operator: u-VLAR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.025
+Q3 MS: 0.000
+Max MS: 0.200
+St. Dev. MS: 0.054
+Number of TC: 13
+Number of Mutants: 41
+Mutants/TC: 3.1538461538461537 
+
+Results for Operator: u-SGLR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.001
+Q3 MS: 0.000
+Max MS: 0.020
+St. Dev. MS: 0.003
+Number of TC: 1
+Number of Mutants: 2
+Mutants/TC: 2.0 
+
+Results for Operator: u-VVDL
+Min MS: 0.126
+Q1 MS: 0.235
+Median MS: 0.280
+Average MS: 0.318
+Q3 MS: 0.378
+Max MS: 0.657
+St. Dev. MS: 0.130
+Number of TC: 146
+Number of Mutants: 742
+Mutants/TC: 5.082191780821918 
+
+Results for Operator: u-CRCR
+Min MS: 0.227
+Q1 MS: 0.342
+Median MS: 0.439
+Average MS: 0.471
+Q3 MS: 0.614
+Max MS: 0.857
+St. Dev. MS: 0.158
+Number of TC: 242
+Number of Mutants: 6692
+Mutants/TC: 27.65289256198347 
+
+Results for Operator: u-ORBN
+Min MS: 0.000
+Q1 MS: 0.207
+Median MS: 0.306
+Average MS: 0.318
+Q3 MS: 0.440
+Max MS: 0.583
+St. Dev. MS: 0.150
+Number of TC: 141
+Number of Mutants: 896
+Mutants/TC: 6.3546099290780145 
+
+Results for Operator: u-Cccr
+Min MS: 0.000
+Q1 MS: 0.136
+Median MS: 0.322
+Average MS: 0.285
+Q3 MS: 0.430
+Max MS: 0.686
+St. Dev. MS: 0.188
+Number of TC: 195
+Number of Mutants: 4001
+Mutants/TC: 20.51794871794872 
+
+Results for Operator: u-VGAR
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.030
+Q3 MS: 0.000
+Max MS: 0.486
+St. Dev. MS: 0.093
+Number of TC: 21
+Number of Mutants: 134
+Mutants/TC: 6.380952380952381 
+
+Results for Operator: u-VTWD
+Min MS: 0.200
+Q1 MS: 0.372
+Median MS: 0.521
+Average MS: 0.515
+Q3 MS: 0.669
+Max MS: 0.800
+St. Dev. MS: 0.174
+Number of TC: 274
+Number of Mutants: 2444
+Mutants/TC: 8.91970802919708 
+
+Results for Operator: u-OARN
+Min MS: 0.000
+Q1 MS: 0.006
+Median MS: 0.146
+Average MS: 0.157
+Q3 MS: 0.269
+Max MS: 0.500
+St. Dev. MS: 0.148
+Number of TC: 74
+Number of Mutants: 1832
+Mutants/TC: 24.756756756756758 
+
+Results for Operator: u-SMTC
+Min MS: 0.000
+Q1 MS: 0.054
+Median MS: 0.146
+Average MS: 0.143
+Q3 MS: 0.200
+Max MS: 0.383
+St. Dev. MS: 0.104
+Number of TC: 52
+Number of Mutants: 108
+Mutants/TC: 2.076923076923077 
+
+Results for Operator: VLSR+VGSR
+Min MS: 0.100
+Q1 MS: 0.344
+Median MS: 0.485
+Average MS: 0.475
+Q3 MS: 0.576
+Max MS: 0.843
+St. Dev. MS: 0.177
+Number of TC: 281
+Number of Mutants: 8638
+Mutants/TC: 30.740213523131672 
+
+Results for Operator: u-OLAN
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.034
+Average MS: 0.101
+Q3 MS: 0.159
+Max MS: 0.600
+St. Dev. MS: 0.135
+Number of TC: 61
+Number of Mutants: 362
+Mutants/TC: 5.934426229508197 
+
+Results for Operator: u-ORSN
+Min MS: 0.000
+Q1 MS: 0.181
+Median MS: 0.250
+Average MS: 0.247
+Q3 MS: 0.329
+Max MS: 0.467
+St. Dev. MS: 0.119
+Number of TC: 123
+Number of Mutants: 623
+Mutants/TC: 5.065040650406504 
+
+Results for Operator: u-VDTR
+Min MS: 0.275
+Q1 MS: 0.511
+Median MS: 0.715
+Average MS: 0.658
+Q3 MS: 0.807
+Max MS: 1.000
+St. Dev. MS: 0.205
+Number of TC: 309
+Number of Mutants: 2545
+Mutants/TC: 8.236245954692556 
+
+Results for Operator: u-SBRC
+Min MS: 0.000
+Q1 MS: 0.000
+Median MS: 0.000
+Average MS: 0.004
+Q3 MS: 0.000
+Max MS: 0.114
+St. Dev. MS: 0.019
+Number of TC: 3
+Number of Mutants: 3
+Mutants/TC: 1.0 
+
