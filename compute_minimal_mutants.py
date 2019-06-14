@@ -58,7 +58,7 @@ def compute_minimal_set(program):
             if ( not hashset.has_key(m2)):
                 continue
             s2 = hashset[m2]
-            if (s <= s2): #m subsumes m2
+            if (s <= s2): #m subsumes m2 -> (Change <= by < includes all minimal candidates)
                 #print "Mutant " + str(m) + " subsumes "  + str(m2)
                 #print s
                 #print s2
