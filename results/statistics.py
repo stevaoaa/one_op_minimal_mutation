@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+import csv
 import pandas as pd
 
 
@@ -10,6 +11,9 @@ from numpy.random import rand
 
 # calculate a 5-number summary
 if __name__ == "__main__":
+
+    #gonna save the results here to export to a csv file
+    all_results = []
 
     #enter inside the programs folder
     r = os.chdir('general')
@@ -53,11 +57,16 @@ if __name__ == "__main__":
 
                 #standard deviation
                 std = ms_data.std()
-
+                valid_mutants = sum_mutants - sum_eqv_mutants
+                mutants_by_tc = (sum_mutants - sum_eqv_mutants)/sum_tc
                 #avoid information of op that produce lower score or dont generate mutants
                 if ms_data_max == 0:
                     pass
                 else:
+
+                    #put the results inside a list
+                    result = [csv_file[:-4], ms_data_min, quartiles[0], quartiles[1], avg_ms, quartiles[2], ms_data_max, std, sum_tc, valid_mutants, mutants_by_tc]
+                    all_results.append(result)
 
                     # print summary
                     print('Results for Operator: {}'.format(csv_file[:-4]))
@@ -69,5 +78,18 @@ if __name__ == "__main__":
                     print('Max MS: %.3f' % ms_data_max)
                     print('St. Dev. MS: %.3f' % std)
                     print('Number of TC: {}'.format(sum_tc))
-                    print('Number of Mutants: {}'.format(sum_mutants - sum_eqv_mutants))
-                    print('Mutants/TC: {} \n'.format( (sum_mutants - sum_eqv_mutants)/sum_tc))
+                    print('Number of Mutants: {}'.format(valid_mutants))
+                    print('Mutants/TC: {} \n'.format(mutants_by_tc))
+    
+    #after print all results, gonna save then in a csv file
+    results_file = 'sumary_best_op.csv'
+
+    #open the csv file
+    with open(results_file, "w") as sheet_results:
+        
+        #creat the csv obj to write the results
+        out = csv.writer(sheet_results, delimiter=',',quoting=csv.QUOTE_ALL)
+        
+        #for every result
+        for result in all_results:    
+            out.writerow(result) #write the result into the csv file
