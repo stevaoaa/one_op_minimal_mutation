@@ -5,8 +5,18 @@ import matplotlib.pyplot as plt
 
 if __name__ == "__main__":  
 
+    #chose the target
+    print("1 - Phase One Data")
+    print("2 - Best results (Phase two)")
+    condition = input("Informe the target data: ")
+
+    if condition == 2:
+        target = "analyzes/best_all_data.csv"
+    else:
+        target = "analyzes/phase_one_data.csv"
+
     # Prepare Data
-    df_raw = pd.read_csv("data.csv")
+    df_raw = pd.read_csv(target)
     df = df_raw[['n_tc', 'ms' ,'op']].groupby('op').apply(lambda x: x.mean())
     df.sort_values('n_tc', inplace=True)
     df.reset_index(inplace=True)
@@ -15,7 +25,7 @@ if __name__ == "__main__":
     import matplotlib.patches as patches
 
     fig, ax = plt.subplots(figsize=(16,10), facecolor='white', dpi= 80)
-    ax.vlines(x=df.index, ymin=0, ymax=df.n_tc, color='firebrick', alpha=0.7, linewidth=20)
+    ax.vlines(x=df.index, ymin=0, ymax=df.n_tc, color='cornflowerblue', alpha=0.7, linewidth=20)
 
     # Annotate Text
     for i, i_ms in enumerate(df.ms):
